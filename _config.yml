@@ -1,0 +1,28 @@
+name: Mr. Purzoot
+favicon: null
+layout_spectrum: 0.20012067817151546
+typography_spectrum: 0.14905337430536747
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.3878260024357587
+  lightness: 0.38842515111900866
+  saturation: 0.18363349977880716
+  rhythmicContrast: 0.8524055168963969
+purpose: []
